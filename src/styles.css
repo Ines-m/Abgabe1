@@ -1,0 +1,33 @@
+body {
+  text-align: left;
+  color: red;
+  font-family: monospace;
+  padding-left: px;
+}
+h1 {
+  font-size: 3em;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Arial Black";
+}
+.box {
+  border-radius: 5px;
+  background-color: #eee;
+  padding: 20px 5px;
+}
+button {
+  color: white;
+  background-color: black;
+  border-radius: 40px;
+  border: 1px solid red;
+  padding: 20px 20px 20px 20px;
+}
+button:hover {
+  background-color: red;
+  border: 1px solid red;
+}
+div {
+  text-decoration-color: red;
+  color: black;
+  padding-left: 150px;
+}
